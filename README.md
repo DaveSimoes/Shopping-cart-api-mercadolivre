@@ -1,6 +1,6 @@
 #  Aplicação de Carrinho de Compras com React e API do Mercado Livre 🚀
-🔥 Este projeto foi originado de um curso sobre APIs com React, destinado a desenvolvedores júnior,
-promovido pela D&L no mês de Julho de 2024 e tendo como instrutor David de Paiva
+ Este projeto foi originado de um curso sobre APIs com React, destinado a desenvolvedores júnior,
+promovido pela D&L no mês de Julho de 2024 e tendo como instrutor David de Paiva 🎁
 
 ![mercadolivrephoto1](https://github.com/user-attachments/assets/057034f8-dc4d-44c4-9610-2e4d537892e2)
 ![image](https://github.com/user-attachments/assets/60a67744-ae73-4ba2-b7e8-fc716ab8d110)
@@ -25,7 +25,7 @@ promovido pela D&L no mês de Julho de 2024 e tendo como instrutor David de Paiv
 
 # Como Configurar e Executar o Projeto 🛠️ :
 
- ## Clone o repositório 🎁:
+ ## Clone o repositório :
 ```
 git clone https://github.com/DaveSimoes/carrinho-de-compras-api-mercado-livre.git
 ```
