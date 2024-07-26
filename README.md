@@ -1,4 +1,4 @@
-# 🚀 Aplicação de Carrinho de Compras com React e API do Mercado Livre 🚀
+#  Aplicação de Carrinho de Compras com React e API do Mercado Livre 🚀
 🔥 Este projeto foi originado de um curso sobre APIs com React, destinado a desenvolvedores júnior,
 promovido pela D&L no mês de Julho de 2024 e tendo como instrutor David de Paiva
 
