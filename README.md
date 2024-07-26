@@ -25,7 +25,7 @@ promovido pela D&L no mês de Julho de 2024 e tendo como instrutor David de Paiv
 
 # Como Configurar e Executar o Projeto 🛠️ :
 
- ## Clone o repositório 🌟:
+ ## Clone o repositório 🎁:
 ```
 git clone https://github.com/DaveSimoes/carrinho-de-compras-api-mercado-livre.git
 ```
@@ -58,7 +58,7 @@ yarn start
 
 ## Abra o navegador e acesse http://localhost:3000 para visualizar a aplicação.
 
-# Contribuindo para o Projeto
+# Contribuindo para o Projeto 🎨:
 Se você deseja contribuir com melhorias, siga os passos abaixo: ✌️
 
  1) Faça um fork deste repositório.
