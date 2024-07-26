@@ -12,7 +12,7 @@ function Products() {
   
 
   useEffect(() => {
-    fetchProducts('iphone').then((response) => {
+    fetchProducts('headphone').then((response) => {
       setProducts(response);
       setLoading(false);
     });
