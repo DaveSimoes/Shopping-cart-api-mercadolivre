@@ -2,6 +2,9 @@
 🔥 Este projeto foi originado de um curso sobre APIs com React, destinado a desenvolvedores júnior,
 promovido pela D&L no mês de Julho de 2024 e tendo como instrutor David de Paiva
 
+![mercadolivrephoto1](https://github.com/user-attachments/assets/057034f8-dc4d-44c4-9610-2e4d537892e2)
+
+
 # Features  🛠️
 - ✅ Listagem de Produtos: Exibe produtos recuperados da API do Mercado Livre.
 - ✅ Busca por Palavra-chave: Permite buscar produtos com base em palavras-chave específicas, consultando a API do Mercado Livre.
