@@ -3,6 +3,8 @@
 promovido pela D&L no mês de Julho de 2024 e tendo como instrutor David de Paiva
 
 ![mercadolivrephoto1](https://github.com/user-attachments/assets/057034f8-dc4d-44c4-9610-2e4d537892e2)
+![image](https://github.com/user-attachments/assets/60a67744-ae73-4ba2-b7e8-fc716ab8d110)
+
 
 
 # Features  🛠️
