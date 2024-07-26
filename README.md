@@ -13,29 +13,29 @@ promovido pela D&L no mês de Julho de 2024 e tendo como instrutor David de Paiv
 - ✅ Adição ao Carrinho: Possibilita adicionar produtos ao carrinho de compras.
 - ✅ Remoção do Carrinho: Facilita a remoção de produtos do carrinho de compras.
 
-   # Stacks utilizadas ⌨️:
+# Stacks utilizadas ⌨️:
 
   - 💻 React JS
   - 💻 API do Mercado Livre: utilizada para obter dados de produtos.
   - 💻 HTML5.
   - 💻 CSS3.
 
-  # Pré-requisitos🌟:
+# Pré-requisitos🌟:
 - ✅ Certifique-se de ter o Node.js e o npm (ou yarn) instalados no seu ambiente de desenvolvimento.
 
- # Como Configurar e Executar o Projeto 🛠️ :
+# Como Configurar e Executar o Projeto 🛠️ :
 
  ## Clone o repositório 🌟:
 ```
 git clone https://github.com/DaveSimoes/carrinho-de-compras-api-mercado-livre.git
 ```
 
-## Acesse o diretório do projeto:
+ ## Acesse o diretório do projeto:
 
 ```
 cd carrinho-mercadolivre 
 ```
-## Instale as dependências:
+ ## Instale as dependências:
 
 ```
 npm install
