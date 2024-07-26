@@ -16,21 +16,21 @@ promovido pela D&L no mês de Julho de 2024 e tendo como instrutor David de Paiv
   - 💻 CSS3.
 
   # Pré-requisitos🌟:
-✅ Certifique-se de ter o Node.js e o npm (ou yarn) instalados no seu ambiente de desenvolvimento.
+- ✅ Certifique-se de ter o Node.js e o npm (ou yarn) instalados no seu ambiente de desenvolvimento.
 
- ## Como Configurar e Executar o Projeto 🛠️ :
+ # Como Configurar e Executar o Projeto 🛠️ :
 
  ## Clone o repositório 🌟:
 ```
 git clone https://github.com/DaveSimoes/carrinho-de-compras-api-mercado-livre.git
 ```
 
-# Acesse o diretório do projeto:
+## Acesse o diretório do projeto:
 
 ```
 cd carrinho-mercadolivre 
 ```
-# Instale as dependências:
+## Instale as dependências:
 
 ```
 npm install
@@ -40,7 +40,7 @@ ou
 yarn install
 ```
 
-Executando a Aplicação
+## Executando a Aplicação
 Inicie o servidor de desenvolvimento:
 ```
 npm start
@@ -51,7 +51,7 @@ ou
 yarn start
 ```
 
-Abra o navegador e acesse http://localhost:3000 para visualizar a aplicação.
+## Abra o navegador e acesse http://localhost:3000 para visualizar a aplicação.
 
 # Contribuindo para o Projeto
 Se você deseja contribuir com melhorias, siga os passos abaixo: ✌️
